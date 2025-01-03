@@ -1,0 +1,51 @@
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\Grocery Shop Management System.exe.config
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\Grocery Shop Management System.exe
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\Grocery Shop Management System.pdb
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\Bunifu.UI.WinForms.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\Microsoft.Win32.Registry.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\Microsoft.Win32.SystemEvents.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\Newtonsoft.Json.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\RestSharp.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Buffers.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.CodeDom.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Data.Odbc.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Data.OleDb.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Data.SqlClient.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Diagnostics.EventLog.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Drawing.Common.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.IO.FileSystem.AccessControl.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.IO.Packaging.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.IO.Ports.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Memory.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Numerics.Vectors.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Security.AccessControl.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Security.Cryptography.Cng.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Security.Cryptography.Pkcs.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Security.Cryptography.Xml.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Security.Permissions.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Security.Principal.Windows.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.ServiceModel.Syndication.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.ServiceProcess.ServiceController.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\bin\Debug\System.Threading.AccessControl.xml
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery Shop Management System.csproj.AssemblyReference.cache
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery Shop Management System.csproj.SuggestedBindingRedirects.cache
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery_Shop_Management_System.Splash.resources
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery_Shop_Management_System.Properties.Resources.resources
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery Shop Management System.csproj.GenerateResource.cache
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery Shop Management System.csproj.CoreCompileInputs.cache
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery Shop Management System.csproj.Fody.CopyLocal.cache
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery Shop Management System.csproj.CopyComplete
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery Shop Management System.exe
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery Shop Management System.pdb
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery_Shop_Management_System.Login.resources
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery_Shop_Management_System.AdminForm.resources
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery_Shop_Management_System.CasheirForm.resources
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery_Shop_Management_System.Supplier.resources
+F:\Project\Grocery Shop Management System\Grocery Shop Management System\obj\Debug\Grocery_Shop_Management_System.Staff.resources
